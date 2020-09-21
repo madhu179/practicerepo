@@ -5,3 +5,7 @@ logs/
 .settings/
 
 target/
+
+.classpath
+
+.project
